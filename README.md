@@ -5,6 +5,10 @@ Codebasics Resume Project challenge -4
 ## 👋 Introduction
 AtliQ Hardware (fictional company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
+[Check out my Presentation for the Stakeholders](https://github.com/Parth-S-DA/Consumer-Goods-Ad-Hoc-insights/blob/main/Consumer%20Goods%20Ad-Hoc%20Insights%20final.pdf)
+
+[Here is the python code for visualization, using Pandas and Matplotlib](https://github.com/Parth-S-DA/Consumer-Goods-Ad-Hoc-insights/blob/main/sql_project.ipynb)
+
 ## 📊 Data Analysis and Visualization Project
 
 This project was originally designed to leverage **SQL** for handling ad-hoc data requests and **Excel/Power BI** for creating intuitive data visualizations. However, due to the **expiration of my Microsoft license**, I adapted the approach and utilized **Python** to carry out the analysis and visualization tasks—demonstrating flexibility and technical versatility.
@@ -13,7 +17,7 @@ This project was originally designed to leverage **SQL** for handling ad-hoc dat
 
 🔹**SQL**: For querying and exporting relevant data.
 
-🧮**NumPy**: To read and manipulate CSV files generated from SQL queries.
+🧮**Pandas**: To read and manipulate CSV files generated from SQL queries.
 
 📊**Matplotlib**: For creating clear and insightful data visualizations.
 
