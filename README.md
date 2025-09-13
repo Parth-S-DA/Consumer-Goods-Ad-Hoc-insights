@@ -1,10 +1,11 @@
 # Consumer-Goods-Ad-Hoc-insights
 
 Codebasics Resume Project challenge -4
-👋 Introduction
+
+## 👋 Introduction
 AtliQ Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
-##📑 Problem Statement:
+## 📑 Problem Statement:
 ▶ The management noticed that they do not get enough insights to make quick and smart data-informed decisions.
 
 ▶ There are 10 ad-hoc requests for which the company needs insights.
@@ -13,7 +14,7 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 
 ▶ Convert into visualizations and present insights to top-level management
 
-##📊 Data Analysis and Visualization Project
+## 📊 Data Analysis and Visualization Project
 
 This project was originally designed to leverage SQL for handling ad-hoc data requests and Excel/Power BI for creating intuitive data visualizations. However, due to the expiration of my Microsoft license, I adapted the approach and utilized Python to carry out the analysis and visualization tasks—demonstrating flexibility and technical versatility.
 
@@ -25,7 +26,7 @@ NumPy: To read and manipulate CSV files generated from SQL queries.
 
 Matplotlib: For creating clear and insightful data visualizations.
 
-##📈 Objective:
+## 📈 Objective:
 
 The goal was to extract meaningful insights from the data using structured queries and present them in a visual format to support data-driven decision-making.
 
@@ -33,7 +34,7 @@ This pivot from Excel to Python not only maintained the integrity of the analysi
 
 Let me know if you want to tailor it to a specific dataset, audience (e.g. recruiters, technical teams), or add links/screenshots.
 
-##📋 Requests:
+## 📋 Requests:
 Provide the list of markets in which customer "AtliQ Exclusive" operates its business in the APAC region.
 
 What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields, unique_products_2020 unique_products_2021 percentage_chg
